@@ -1,0 +1,17 @@
+{
+  "name": "quiz-section2-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node": "^15.8.0",
+    "node-html-parser": "^2.1.0"
+  }
+}
